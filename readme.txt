@@ -3,4 +3,4 @@ this is a test file
 
 捉到一条虫子，吃了
 
-难吃
+难吃，像鼻涕一样
