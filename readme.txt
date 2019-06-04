@@ -9,4 +9,14 @@ this is a test file
 test branch
 i have a penapple
 
+
 remote
+
+
+fast forward
+fast...
+no fast
+
+master
+
+
